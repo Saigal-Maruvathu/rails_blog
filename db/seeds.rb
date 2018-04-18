@@ -24,7 +24,7 @@ post_list = [
   [ "i have too many overdue library books", "does anyone know what the overdue fees for like 50 books. i just couldn't let them go", 2 ],
   [ "whoo hah!", "When i step up in the place i step correct. whoo hah. got you all in check", 3 ],
   [ "Planning a great barbecue", "no one does barbecue better than me. and i'm putting together a great party. everyone is invited", 4 ],
-  [ "Had a good latte today", "got a new capuccino maker. made my own latte. just the way i like it.", 5 ],
+  [ "Made a good herbal tea", "made my own herbal tea from my own recipe. very good and relaxing", 5 ],
   [ "im a rebel so i re-bel!", "deet doot beep boop boop beep deet doot", 6 ],
   [ "working another night again", "its tough working the night shift and being on call. every time i think i can get some rest i get another call and got to be out the door. all my friends work like one night a year. how did i get stuck with this one?", 7 ],
   [ "not doing too much these says", "these days i feel a lot more relaxed. sure the wife tells me i can't just lay around the house. but i feel like i earned it this time. even the lord rested after putting in some good work.", 8 ],
