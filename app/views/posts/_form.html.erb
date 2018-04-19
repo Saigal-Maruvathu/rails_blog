@@ -1,0 +1,9 @@
+<%= form_for(@post) do |f| %>
+
+<%= f.label :title %><br>
+<%= f.text_field :title, placeholder: "type the post title here" %><br>
+<%= f.label :content %><br>
+<%= f.text_area :content, size: "60x12", placeholder: "type the post here" %><br>
+<%= f.submit %>
+
+<% end %>
